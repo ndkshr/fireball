@@ -1,6 +1,6 @@
 # Fireball
 
-![Fireball Demo Video](https://youtu.be/xYxKp4_aVlU)
+Video Demo - https://youtu.be/xYxKp4_aVl
 
 ![fireball home page](https://github.com/ndkshr/fireball/assets/20442648/4983839a-c948-4587-94ef-dd6ad731de70)
 
